@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. That's my frist project, i've publised on the github👋
 
 <!--
 **BogdanSEST2/BogdanSEST2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
